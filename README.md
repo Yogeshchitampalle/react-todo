@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+1.CRUD Operation:-
+![todo 0](https://github.com/Yogeshchitampalle/react-todo/assets/86973304/d3444201-aeeb-4a6e-ae64-d8c0d178c5fc)
+![todo1](https://github.com/Yogeshchitampalle/react-todo/assets/86973304/19a38282-44e8-4ec0-aabe-0eae5c4ed676)
+
+2.Search(Filter):-
+![todo](https://github.com/Yogeshchitampalle/react-todo/assets/86973304/e8cafc9f-11bf-4757-985b-61c395cc9bd7)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
