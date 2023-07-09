@@ -1,4 +1,19 @@
 # Getting Started with Create React App
+
+#Objective:
+
+After completing this, you will be able to:
+
+1.Use an event handler for creating add todo task.
+
+2.Deleting the completed task from todo list using the filter method.
+
+3.Toggle function and checkbox is added to check completed or not completed task.
+
+4.Edit an added Todo task and submit it using map function.
+
+5.UseEffect hook will be used to save new todos into localstorage.
+
 1.CRUD Operation:-
 ![todo 0](https://github.com/Yogeshchitampalle/react-todo/assets/86973304/d3444201-aeeb-4a6e-ae64-d8c0d178c5fc)
 ![todo1](https://github.com/Yogeshchitampalle/react-todo/assets/86973304/19a38282-44e8-4ec0-aabe-0eae5c4ed676)
