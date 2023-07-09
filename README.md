@@ -6,7 +6,7 @@ After completing this, you will be able to:
 
 1.Use an event handler for creating add todo task.
 
-2.Deleting the completed task from todo list using the filter method.
+2.Deleting the completed task from todo list using the Map/filter method.
 
 3.Toggle function and checkbox is added to check completed or not completed task.
 
